@@ -1,0 +1,1 @@
+To run script use ruby my_script.rb 
